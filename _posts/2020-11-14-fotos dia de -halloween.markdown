@@ -6,6 +6,9 @@ categories: compostela update
 ---
 
 ![alt text](/images/fotodianinos1.jpeg "halloween")
+![alt text](/images/fotodianinos2.jpeg "halloween")
+![alt text](/images/fotodianinos3.jpeg "halloween")
+![alt text](/images/fotodianinos4.jpeg "halloween")
 
 Llego octubre, mes de los niños!!!
 Te invitamos a inscribir en la porteria a los niños menores de 12 años antes del 17 de octubre para vivir un halloween al estilo americano...
